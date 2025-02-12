@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syed Azaan Ahmad</h1>
 <h3 align="center">SDE + Freelancer</h3>
 
-- 💬 Ask me about **Development & DSA**
-
-- 📫 How to reach me **thesyazah@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/syazah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="syazah" height="30" width="40" /></a>
