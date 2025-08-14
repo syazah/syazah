@@ -10,4 +10,3 @@ Want to discuss something of your interest :mag_right: or want me in your team :
 <a href="https://www.leetcode.com/syazah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syazah" height="30" width="40" /></a>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syazah&show_icons=true&locale=en&layout=compact" alt="syazah" /></p>
