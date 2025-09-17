@@ -1,6 +1,6 @@
 ## Great to see you here! 👋,
 
-I am Syed Azaan Ahmad, Engineering Intern at [Headout](https://headout.com/). Currently, Building Headout and learning more about how systems work :seedling: . Interested in anything related to Java, Nodejs, Springboot, Kotlin, Typescript.
+I am Syed Azaan Ahmad, Engineering Intern at [Headout](https://headout.com/). Currently, Building Headout and learning more about how systems work :seedling: . Interested in anything related to C++, Java, Nodejs, Springboot, Kotlin, Typescript.
 
 Want to discuss something of your interest :mag_right: or want me in your team :hammer:? Ping me here:
 
